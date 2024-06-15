@@ -1,7 +1,7 @@
 import React from "react";
 import deliphoto1 from "../../asset/J&T.jpg";
 import deliphoto2 from "../../asset/VET.jpg";
-import photo from "../../asset/cerave.jpg";
+import photo from "../../asset/Candle.jpg";
 import deliphoto3 from "../../asset/kerry.jpg";
 export const Cart = () => {
   return (
@@ -30,7 +30,7 @@ export const Cart = () => {
                 <div className=" md:flex-row flex-col flex justify-between items-start w-full space-y-4 md:space-y-0">
                   <div className="w-full flex flex-col justify-start items-start space-y-10">
                     <h3 className="text-xl lg:flex lg:justify-center xl:text-2xl font-semibold leading-6 text-gray-800">
-                      CeraVe Daily Moisturizing Lotion
+                      Kraaob Candle
                     </h3>
                   </div>
                   <div className="flex justify-between space-x-8 items-start w-full">
@@ -59,7 +59,7 @@ export const Cart = () => {
                 <div className="flex justify-between items-start w-full flex-col md:flex-row space-y-4 md:space-y-0">
                   <div className="w-full flex flex-col justify-start items-start space-y-8">
                     <h3 className="text-xl lg:flex lg:justify-center xl:text-2xl font-semibold leading-6 text-gray-800">
-                      CeraVe Daily Moisturizing Lotion
+                      Kraaob Candle
                     </h3>
                   </div>
                   <div className="flex justify-between space-x-8 items-start w-full">

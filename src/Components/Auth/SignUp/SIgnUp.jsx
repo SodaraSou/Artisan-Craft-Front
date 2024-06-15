@@ -10,7 +10,7 @@ export default function SignUp() {
   const [password, setPassword] = useState("");
   const [password_confirmation, setPasswordConfirm] = useState("");
   const [is_active, setIsActive] = useState(0);
-  const [role, setRole] = useState("");
+  const [role, setRole] = useState(0);
   const { signup, loading, error: authError } = useAuthContext(); // Get loading state and error message from useAuthContext
 
 
@@ -29,11 +29,11 @@ export default function SignUp() {
   };
 
   return (
-    <div className="min-h-screen bg-pink-100 w-full">
+    <div className="min-h-screen  bg-pink-100 w-full">
       <div className="flex flex-col w-full h-screen items-center justify-center">
-        <p className="text-7xl text-blue-800 font-bold font-abc">skin.me</p>
+        <p className="text-7xl text-blue-800 font-bold font-abc">Artisan Craft</p>
         <p className="text-blue-500 font-abc text-sm">
-          Love Your Skin, Love Yourself
+          Support Local Product, Support Economy.
         </p>
 
         <div className="flex w-[350px] mt-10 flex-col items-center relative">

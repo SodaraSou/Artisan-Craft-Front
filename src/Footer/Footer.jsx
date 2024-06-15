@@ -13,7 +13,7 @@ import { IoMdHome } from "react-icons/io";
 import { MdEmail } from "react-icons/md";
 import { Link } from "react-router-dom";
 
-import Logo from "../asset/img.png";
+import Logo from "../asset/logo.png";
 export default function Footer() {
   return (
     <footer className="text-center text-neutral-600  lg:text-left">
@@ -51,16 +51,14 @@ export default function Footer() {
           <div className="pl-10">
             <div className="flex justify-center md:flex md:justify-normal">
               <img
-                className="w-[100px] h-[40px] mt-2 mr-8"
+                className=" ml-15 w-[60px] h-[60px] mt-2 mr-8"
                 src={Logo}
                 alt="Skin.me"
               />
             </div>
             <p className="pt-5">
-              Our website offers a unique feature where you can explore skincare
-              ingredients specific to your province of interest. Additionally,
-              we provide a platform for discovering and purchasing skincare
-              products tailored to your needs.
+              Cambodian's Handicrafts and local products face serveral
+              obstract that handle their growth and competitiveness.
             </p>
           </div>
           {/* <!-- Products section --> */}
@@ -149,15 +147,14 @@ export default function Footer() {
               <IoMdHome size={22} className="mr-2" /> Phnom Penh, Cambodia
             </p>
             <p className="mb-4  flex items-center justify-center md:justify-start hover:text-pink-400">
-              <MdEmail size={22} className="mr-2" /> skinme168@gmail.com
+              <MdEmail size={22} className="mr-2" /> artisancraft168@gmail.com
             </p>
             <p className="mb-4  flex items-center justify-center md:justify-start hover:text-pink-400">
-              <CgPhone size={22} className="mr-2" /> 096 225 3049
+              <CgPhone size={22} className="mr-2" /> (+855) 123 456 789
             </p>
             <p className="flex items-center justify-center md:justify-start hover:text-pink-400">
               <FaTelegramPlane size={22} className="mr-2" />{" "}
-              {/* Add margin-right for spacing */}
-              096 225 3049
+              {/* Add margin-right for spacing */}  (+855) 123 456 789
             </p>
           </div>
         </div>
@@ -165,7 +162,7 @@ export default function Footer() {
 
       {/* <!--Copyright section--> */}
       <div className="bg-neutral- text-pink-400 p-3 text-center">
-        <span>© 2024 Skinme Website in Cambodia</span>
+        <span>© 2024 ArtisanCraft Website in Cambodia</span>
         {/* <div
           className=" text-neutral-600 "
           href="https://tw-elements.com/"

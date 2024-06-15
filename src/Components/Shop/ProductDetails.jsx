@@ -8,8 +8,8 @@ function ProductDetails() {
     {
       id: 1,
       image:
-        "https:moonglow.md/wp-content/uploads/2023/05/MaryMay_Vegan-CICA-Tea-Tree-AHA-PHA-Toner-200ml.webp",
-      brand: "Mary&May",
+        "https://camthrive.com/cdn/shop/products/JayaOrganics-Kraoboil-11_2527x.jpg?v=1669315724",
+      brand: "Kraob Oil Burner",
       description:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duisvitae ante vel eros fermentum faucibus sit amet euismod lorem.",
       title: "Product Title 1",
@@ -22,26 +22,26 @@ function ProductDetails() {
     {
       id: 2,
       image:
-        "https:moonglow.md/wp-content/uploads/2023/05/MaryMay_Vegan-CICA-Tea-Tree-AHA-PHA-Toner-200ml.webp",
-      brand: "Mary&May",
-      description:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duisvitae ante vel eros fermentum faucibus sit amet euismod lorem.",
-      title: "Product Title 1",
-      status: "SOLD",
-      price: 30,
-      oldPrice: 45,
-      productdescriptions:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    },
+      "https://camthrive.com/cdn/shop/products/JayaOrganics-Kraoboil-11_2527x.jpg?v=1669315724",
+    brand: "Kraob Oil Burner",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duisvitae ante vel eros fermentum faucibus sit amet euismod lorem.",
+    title: "Product Title 1",
+    status: "SALE",
+    price: 30,
+    oldPrice: 45,
+    productdescriptions:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+  },
     {
       id: 3,
       image:
-        "https:sokoskins.shop/cdn/shop/files/thumb-02_405x405_c83d7242-a942-4488-8c8e-fd1560acff91_405x.jpg?v=1682600891",
-      brand: "Mary&May",
+        "https://camthrive.com/cdn/shop/products/JayaOrganics-Kraoboil-11_2527x.jpg?v=1669315724",
+      brand: "Kraob Oil Burner",
       description:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duisvitae ante vel eros fermentum faucibus sit amet euismod lorem.",
       title: "Product Title 1",
-      status: "SOLD",
+      status: "SALE",
       price: 30,
       oldPrice: 45,
       productdescriptions:
@@ -50,91 +50,64 @@ function ProductDetails() {
     {
       id: 4,
       image:
-        "https:encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ149u_PSE1HoSDXR-GV9YDyblzMwfI7_H69w&usqp=CAU",
-      brand: "Mary&May",
-      description:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duisvitae ante vel eros fermentum faucibus sit amet euismod lorem.",
-      title: "Product Title 1",
-      status: "SALE",
-      price: 30,
-      oldPrice: 45,
-      productdescriptions:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    },
+      "https://camthrive.com/cdn/shop/products/JayaOrganics-Kraoboil-11_2527x.jpg?v=1669315724",
+    brand: "Kraob Oil Burner",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duisvitae ante vel eros fermentum faucibus sit amet euismod lorem.",
+    title: "Product Title 1",
+    status: "SALE",
+    price: 30,
+    oldPrice: 45,
+    productdescriptions:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+  },
     {
       id: 5,
       image:
-        "https:moonglow.md/wp-content/uploads/2023/05/MaryMay_Vegan-CICA-Tea-Tree-AHA-PHA-Toner-200ml.webp",
-      brand: "Mary&May",
+        "https://camthrive.com/cdn/shop/products/JayaOrganics-Kraoboil-11_2527x.jpg?v=1669315724",
+      brand: "Kraob Oil Burner",
       description:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duisvitae ante vel eros fermentum faucibus sit amet euismod lorem.",
       title: "Product Title 1",
       status: "SALE",
-      productdescriptions:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       price: 30,
       oldPrice: 45,
+      productdescriptions:
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     },
     {
       id: 6,
       image:
-        "https:moonglow.md/wp-content/uploads/2023/05/MaryMay_Vegan-CICA-Tea-Tree-AHA-PHA-Toner-200ml.webp",
-      brand: "Mary&May",
+        "https://camthrive.com/cdn/shop/products/JayaOrganics-Kraoboil-11_2527x.jpg?v=1669315724",
+      brand: "Kraob Oil Burner",
       description:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duisvitae ante vel eros fermentum faucibus sit amet euismod lorem.",
       title: "Product Title 1",
       status: "SALE",
-
       price: 30,
       oldPrice: 45,
+      productdescriptions:
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     },
     {
       id: 7,
       image:
-        "https:moonglow.md/wp-content/uploads/2023/05/MaryMay_Vegan-CICA-Tea-Tree-AHA-PHA-Toner-200ml.webp",
-      brand: "Mary&May",
-      description:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duisvitae ante vel eros fermentum faucibus sit amet euismod lorem.",
-      title: "Product Title 1",
-      status: "SALE",
-      productdescriptions:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      price: 30,
-      oldPrice: 45,
-    },
+      "https://camthrive.com/cdn/shop/products/JayaOrganics-Kraoboil-11_2527x.jpg?v=1669315724",
+    brand: "Kraob Oil Burner",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duisvitae ante vel eros fermentum faucibus sit amet euismod lorem.",
+    title: "Product Title 1",
+    status: "SALE",
+    price: 30,
+    oldPrice: 45,
+    productdescriptions:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+  },
     {
       id: 8,
       image:
-        "https:moonglow.md/wp-content/uploads/2023/05/MaryMay_Vegan-CICA-Tea-Tree-AHA-PHA-Toner-200ml.webp",
-      brand: "Mary&May",
-      description:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duisvitae ante vel eros fermentum faucibus sit amet euismod lorem.",
-      title: "Product Title 1",
-      status: "SALE",
-      productdescriptions:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      price: 30,
-      oldPrice: 45,
-    },
-    {
-      id: 9,
-      image:
-        "https:moonglow.md/wp-content/uploads/2023/05/MaryMay_Vegan-CICA-Tea-Tree-AHA-PHA-Toner-200ml.webp",
-      brand: "Mary&May",
-      description:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duisvitae ante vel eros fermentum faucibus sit amet euismod lorem.",
-      title: "Product Title 1",
-      status: "SALE",
-      productdescriptions:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      price: 30,
-      oldPrice: 45,
-    },
-    {
-      id: 10,
-      image:
-        "https:moonglow.md/wp-content/uploads/2023/05/MaryMay_Vegan-CICA-Tea-Tree-AHA-PHA-Toner-200ml.webp",
-      brand: "Mary&May",
+        "https://camthrive.com/cdn/shop/products/JayaOrganics-Kraoboil-11_2527x.jpg?v=1669315724",
+      brand: "Kraob Oil Burner",
       description:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duisvitae ante vel eros fermentum faucibus sit amet euismod lorem.",
       title: "Product Title 1",
@@ -144,34 +117,7 @@ function ProductDetails() {
       productdescriptions:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     },
-    {
-      id: 11,
-      image:
-        "https:moonglow.md/wp-content/uploads/2023/05/MaryMay_Vegan-CICA-Tea-Tree-AHA-PHA-Toner-200ml.webp",
-      brand: "Mary&May",
-      description:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duisvitae ante vel eros fermentum faucibus sit amet euismod lorem.",
-      title: "Product Title 1",
-      status: "SALE",
-      price: 30,
-      oldPrice: 45,
-      productdescriptions:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    },
-    {
-      id: 12,
-      image:
-        "https:moonglow.md/wp-content/uploads/2023/05/MaryMay_Vegan-CICA-Tea-Tree-AHA-PHA-Toner-200ml.webp",
-      brand: "Mary&May",
-      description:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duisvitae ante vel eros fermentum faucibus sit amet euismod lorem.",
-      title: "Product Title 1",
-      status: "SALE",
-      price: 30,
-      oldPrice: 45,
-      productdescriptions:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    },
+   
   ];
   return (
     <>

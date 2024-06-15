@@ -3,7 +3,7 @@ import { CgHeart } from "react-icons/cg";
 import { GrShop } from "react-icons/gr";
 import { NavLink, useNavigate } from "react-router-dom";
 import useAuthContext from "../Components/context/AuthContext";
-import Logo from "../asset/img.png";
+import Logo from "../asset/logo.png";
 import MobileMenu from "./MobileMenu";
 
 const navigation = [
@@ -59,9 +59,9 @@ function Navbar() {
           <NavLink to="/">
             <div className="max-sm:flex max-sm:items-center max-sm:justify-between ">
               <img
-                className="w-[120px] h-[40px] mt-2 mr-8"
+                className="w-[50px] h-[50px] mt-2 mr-8"
                 src={Logo}
-                alt="Skinme"
+                alt="ArtisanCraft"
               />
               <MobileMenu navigation={navigation} />
             </div>

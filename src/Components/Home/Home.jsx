@@ -1,5 +1,5 @@
 import React from "react";
-import baekhyun2 from "../../asset/beakhyun.png";
+import baekhyun2 from "../../asset/img1.png";
 function HomePage() {
   return (
     <>
@@ -7,16 +7,10 @@ function HomePage() {
         <div className="flex justify-between items-center md:px-10 md:space-x-36">
           <div>
             <h1 className="font-bold text-gray-300 text-4xl text-center pt-10 md:text-left md:pl-20 md:pb-7 md:text-7xl">
-              <span className="text-pink-400">Discover the Power</span> of
+              <span className="text-pink-400">Support Local Product </span> 
               <br />
-              Clean Skincare
+              Support Economy
             </h1>
-            <p className="text-sm flex text-center px-10 py-5 md:text-left md:pl-20 text-gray-600">
-              We believe that true beauty starts from within. That's why we
-              encourage you to not only nourish your skin from <br />
-              the outside, but also prioritize a healthy lifestyle for optimal
-              results.
-            </p>
             <div className="flex justify-center md:justify-start md:pl-20 md:pt-10">
               <button className="flex rounded-2xl bg-pink-400 p-3 font-semibold text-white hover:bg-pink-500">
                 Shop Now

@@ -15,7 +15,7 @@ function Favorite() {
               <a href="/">
                 <img
                   className="w-full"
-                  src="https://cdn.webshopapp.com/shops/326488/files/428412974/300x300x1/axis-y-mugwort-pore-clarifying-wash-off-pack.jpg"
+                  src="https://i.pinimg.com/564x/77/b8/bb/77b8bb4e18e326f113e3bad15b31dd88.jpg"
                   alt="pics"
                 />
                 <div className="hover:bg-transparent transition duration-300 absolute bottom-0 top-0 right-0 left-0 bg-gray-900 opacity-25"></div>
@@ -44,7 +44,7 @@ function Favorite() {
                 href="/"
                 className="font-medium text-lg hover:text-indigo-600 transition duration-500 ease-in-out inline-block mb-2"
               >
-                Mugwort Pore Clarifying Wash Off Pack
+                Kamploak Box
               </a>
               <p className="text-gray-500 text-sm">
                 Lorem Ipsum is simply dummy text of the printing and typesetting
@@ -95,7 +95,7 @@ function Favorite() {
               <a href="/">
                 <img
                   className="w-full"
-                  src="https://sokoskins.shop/cdn/shop/products/skin1004-ampoule-serum-centella-ampoule-38409088401654_800x_7f6a903b-3bd3-47a4-bc21-22e1ad527668_800x.webp?v=1676268023"
+                  src="https://i.pinimg.com/564x/77/b8/bb/77b8bb4e18e326f113e3bad15b31dd88.jpg"
                   alt="pics"
                 />
                 <div className="hover:bg-transparent transition duration-300 absolute bottom-0 top-0 right-0 left-0 bg-gray-900 opacity-25"></div>
@@ -124,7 +124,7 @@ function Favorite() {
                 href="/"
                 className="font-medium text-lg inline-block hover:text-indigo-600 transition duration-500 ease-in-out mb-2"
               >
-                SKIN1004 Madagascar
+                Kamploak Box
               </a>
               <p className="text-gray-500 text-sm">
                 Lorem Ipsum is simply dummy text of the printing and typesetting
@@ -175,7 +175,7 @@ function Favorite() {
               <a href="/">
                 <img
                   className="w-full"
-                  src="https://sokoskins.shop/cdn/shop/products/skin1004-ampoule-serum-centella-ampoule-38409088401654_800x_7f6a903b-3bd3-47a4-bc21-22e1ad527668_800x.webp?v=1676268023"
+                  src="https://i.pinimg.com/564x/77/b8/bb/77b8bb4e18e326f113e3bad15b31dd88.jpg"
                   alt="pics"
                 />
                 <div className="hover:bg-transparent transition duration-300 absolute bottom-0 top-0 right-0 left-0 bg-gray-900 opacity-25"></div>
@@ -204,7 +204,7 @@ function Favorite() {
                 href="/"
                 className="font-medium text-lg hover:text-indigo-600 transition duration-500 ease-in-out inline-block mb-2"
               >
-                SKIN1004 Madagascar
+               Kamploak Box
               </a>
               <p className="text-gray-500 text-sm">
                 Lorem Ipsum is simply dummy text of the printing and typesetting

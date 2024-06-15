@@ -6,7 +6,7 @@ import { MdCategory, MdDashboard } from "react-icons/md";
 import { PiSignOutBold } from "react-icons/pi";
 import { RiContactsBook2Fill } from "react-icons/ri";
 import { Link, NavLink } from "react-router-dom";
-import Skinme from "../asset/img.png";
+import Skinme from "../asset/logo.png";
 // import { logout } from "../../features/userSlice";
 // import { useDispatch } from "react-redux";
 
@@ -32,7 +32,7 @@ const DashboardLayout = ({ children, title }) => {
               <img
                 src={Skinme}
                 alt="logo"
-                className="w-[120px] h-[40px] mt-2 mr-8"
+                className="w-[40px] h-[40px] mt-2 mr-8"
               />
             </Link>
             <button

@@ -1,13 +1,13 @@
 import React from "react";
-import OurTeam from "./OurTeam";
+// import OurTeam from "./OurTeam";
 
 function AboutUs() {
   return (
-    <div className="min-h-screen bg-pink-100 w-full">
+    <div className="min-h-screen bg-olive-100 w-full">
       <div class="sm:flex items-center max-w-screen-xl">
         <div class="sm:w-1/2 p-10">
           <div class="image object-center text-center">
-            <img src="https://akcdn.detik.net.id/visual/2022/05/20/wajah-wajah-duta-merek-skincare-lokal-yang-memikat-foto-kolase-twitter-dan-instagram_11.jpeg?w=480&q=90" />
+            <img src="https://pbs.twimg.com/media/Fm0ahkMaEAUagbp.jpg" />
           </div>
         </div>
         <div class="sm:w-1/2 p-5">
@@ -31,18 +31,15 @@ function AboutUs() {
         <div class="py-12 bg-white">
           <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div class="lg:text-center">
-              <h2 class="font-heading mb-4 bg-pink-100 text-pink-600 px-4 py-2 rounded-lg md:w-64 md:mx-auto text-xs font-semibold tracking-widest text-black uppercase title-font">
-                Why choose us?
-              </h2>
+              {/* <h2 class="font-heading mb-4 bg-pink-100 text-pink-600 px-4 py-2 rounded-lg md:w-64 md:mx-auto text-xs font-semibold tracking-widest text-black uppercase title-font">
+              
+              </h2> */}
               <p class="font-heading mt-2 text-3xl leading-8 font-semibold tracking-tight text-gray-900 sm:text-4xl">
-                Discover Our Trusted Skincare Products for Radiant Results.
+               
                 <br />
-                Your Beauty, Our Commitment.
               </p>
               <p class="mt-4 max-w-2xl text-lg text-gray-500 lg:mx-auto">
-                We Master the Art of Seamless Tax Solutions Across Borders. Your
-                Financial Health is Our Priority - Elevating Prosperity with
-                Precision and Personalized Care.
+    
               </p>
             </div>
 
@@ -119,7 +116,7 @@ function AboutUs() {
           </div>
         </div>
       </section>
-      <OurTeam/>
+      {/* <OurTeam/> */}
     </div>
   );
 }

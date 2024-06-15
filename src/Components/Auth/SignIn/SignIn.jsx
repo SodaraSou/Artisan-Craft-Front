@@ -27,9 +27,9 @@ export const SignIn = () => {
     <section>
       <div className="min-h-screen bg-pink-100 w-full">
         <div className="flex flex-col w-full h-screen items-center justify-center">
-          <p className="text-7xl text-blue-800 font-bold font-abc">skin.me</p>
+          <p className="text-7xl text-blue-800 font-bold font-abc">Artisan Craft</p>
           <p className="text-blue-500 font-abc text-sm">
-            Love Your Skin, Love Yourself
+           Support Local Product, Support Economy.
           </p>
 
           <div className="flex mt-10 flex-col items-center relative">
